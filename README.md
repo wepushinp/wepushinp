@@ -7,7 +7,14 @@
 <!--
 **wepushinp/wepushinp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Tech stack:
+- Python: Pandas, Numpy, Scipy, Matplotlib, Seaborn, Plotly
+- SQL
+- Excel
+- Power BI, Tableau (Basic)
+- Git (Basic)
+- A/B testing 
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
